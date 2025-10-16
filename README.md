@@ -52,7 +52,7 @@ Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seper
 ```
 Hasilnya :
 
-![gambar](https://github.com/andreanbadeh/Lab4Web/blob/bbb3fe82e45aa8f7e7731ad5ee152b00a160942c/image/Screenshot%20from%202025-10-15%2018-22-27.png)
+![gambar](https://github.com/Abcdeflahhh/Lab4WEBPW/blob/2be145a739b32f0dd715c807e4b18f6fa61b0443/image/2025-10-16%2016_46_11-Box%20Element%20-%20Prak4PW%20-%20Aflah%20-%20Visual%20Studio%20Code.png41.png)
 
 3. Mengatur Clearfix Element
 Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya.
@@ -106,7 +106,7 @@ Tambahkan element div lainnya seteleah div3 seperti berikut.
 
 Hasilnya :
 
-![gambar](https://github.com/andreanbadeh/Lab4Web/blob/a36089045570fb88111e6576aa8349f0d85e9515/image/Screenshot%20from%202025-10-15%2018-26-07.png)
+![gambar](https://github.com/Abcdeflahhh/Lab4WEBPW/blob/d9ffb6454931a31564ad24b843f1d6eb88c6185d/image/2025-10-16%2016_49_20-index.html%20-%20Prak4PW%20-%20Aflah%20-%20Visual%20Studio%20Code.png42.png)
 
 # Membuat Layout Sederhana
 Kita akan membuat layout web sederhana seperti gambar berikut. Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama
@@ -150,7 +150,7 @@ home.html, dan file css dengan nama style.css.
 
 Hasilnya :
 
-![gambar](https://github.com/andreanbadeh/Lab4Web/blob/93874f8e0f443e369ce96af819816f7c16863193/image/Screenshot%20from%202025-10-15%2018-29-22.png)
+![gambar](https://github.com/Abcdeflahhh/Lab4WEBPW/blob/7f6b3211ab5ad19f42b2cf2154a143c7b2fb1b57/image/2025-10-16%2016_50_17-index.html%20-%20Prak4PW%20-%20Aflah%20-%20Visual%20Studio%20Code.png43.png)
 
 Kemudian tambahkan kode CSS untuk membuat layoutnya.
 ```
@@ -187,7 +187,7 @@ header h1 {
 
 Hasilnya : 
 
-![gambar](https://github.com/andreanbadeh/Lab4Web/blob/4e3db7a48d59e9f14cbed425b7d25e9b08bbbd66/image/Screenshot%20from%202025-10-15%2018-33-31.png)
+![gambar](https://github.com/Abcdeflahhh/Lab4WEBPW/blob/08b5b9f417adecafe15c24ae11f3293b7640d876/image/2025-10-16%2016_53_19-Layout%20Sederhana%20-%20Prak4PW%20-%20Aflah%20-%20Visual%20Studio%20Code.png44.png)
 
 4. Membuat Navigasi
 Kemudian selanjutnya mengatur navigasi.
@@ -244,7 +244,7 @@ nav a:hover {
 
 Hasilnya :
 
-![gambar](https://github.com/andreanbadeh/Lab4Web/blob/428ee82915cc0bfea78d75fdbb9851dd0a302710/image/Screenshot%20from%202025-10-15%2018-36-26.png)
+![gambar](https://github.com/Abcdeflahhh/Lab4WEBPW/blob/9f52a4fcb60f600c1c6606fa9b3bca8c98213bc7/image/2025-10-16%2016_55_30-Layout%20Sederhana%20-%20Prak4PW%20-%20Aflah%20-%20Visual%20Studio%20Code.png45.png)
 
 5. Membuat Hero Panel.
 Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
@@ -289,7 +289,7 @@ versi css
 
 Hasilnya :
 
-![gambar](https://github.com/andreanbadeh/Lab4Web/blob/ef9a76e65a1cf824797069b797c223762f997b17/image/Screenshot%20from%202025-10-15%2018-51-47.png)
+![gambar](https://github.com/Abcdeflahhh/Lab4WEBPW/blob/98c183ae756fb8ed3fc1db600c54c5d7312304a8/image/2025-10-16%2017_02_31-Layout%20Sederhana%20-%20Prak4PW%20-%20Aflah%20-%20Visual%20Studio%20Code.png46.png)
 
 6. Mengatur Layout Main dan Sidebar
 Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
@@ -380,7 +380,7 @@ footer {
 ```
 Hasilnya :
 
-![gambar](https://github.com/andreanbadeh/Lab4Web/blob/96c02a20477779c41ff78d9e02ebf957f9cd938a/image/Screenshot%20from%202025-10-15%2019-00-59.png)
+![gambar](https://github.com/Abcdeflahhh/Lab4WEBPW/blob/7f00390caadaacab9a48f38224746b559af4e8a6/image/2025-10-16%2017_21_41-Layout%20Sederhana%20-%20Prak4PW%20-%20Aflah%20-%20Visual%20Studio%20Code.png47.png)
 
 8. Mengatur Footer
 Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
@@ -442,13 +442,13 @@ untuk css
 
 Hasilnya : 
 
-![gambar](https://github.com/andreanbadeh/Lab4Web/blob/ba5deef57ede5718c8f1d7efafd2c0600be66c17/image/Screenshot%20from%202025-10-15%2019-18-52.png)
+![gambar](https://github.com/Abcdeflahhh/Lab4WEBPW/blob/bc7eeb09c71923933fff94d0850ec67f37ed9ac5/image/2025-10-16%2017_23_26-Layout%20Sederhana%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge.png48.png)
 
 SELESAI.
 
 SOAL & PERTANYAAN
 
-![gambar](https://github.com/andreanbadeh/Lab4Web/blob/ee66f33312e4c6480391a35560c5a04ac87c429b/image/Screenshot%20from%202025-10-15%2019-22-47.png)
+![gambar](https://github.com/Abcdeflahhh/Lab4WEBPW/blob/cb2a65e7f3608ea990aec0b988de425af850400f/image/Screenshot%20from%202025-10-15%2019-22-47.png)
 
 JAWABAN :
 
@@ -507,12 +507,12 @@ JAWABAN :
   </section>
 
   <footer>
-    <p>© 2025 - Universitas Pelita Bangsa | Created by ANDREAN PUTRA ARYA</p>
+    <p>© 2025 - Universitas Pelita Bangsa | Created by AFLAH ATHALLAH TAMAM KAPUKONG</p>
   </footer>
 </body>
 </html>
 ```
-![gambar](https://github.com/andreanbadeh/Lab4Web/blob/388b1c099a5969cceddeab011a829463cd2fc488/image/Screenshot%20from%202025-10-15%2019-35-18.png)
+![gambar](https://github.com/Abcdeflahhh/Lab4WEBPW/blob/76d1cffaeb45476ed144d8c12adde9938450ead5/image/2025-10-16%2017_38_49-Layout%20Sederhana%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge.png49'.png)
 
 2
 ```
@@ -550,7 +550,7 @@ JAWABAN :
       <img src="images/fotoandre.jpg" alt="Profil">
       <h3>Profil Singkat</h3>
       <p>
-        Halo! Saya <strong>ANDREAN PUTRA ARYA</strong>, seorang web developer dan network engineer pemula yang tertarik pada dunia teknologi digital.
+        Halo! Saya <strong>AFLAH ATHALLAH TAMAM KAPUKONG</strong>, seorang web developer dan network engineer pemula yang tertarik pada dunia teknologi digital.
 Saya gemar menciptakan tampilan website yang responsive dan estetik, sekaligus memahami dasar-dasar jaringan komputer dan keamanan data.
       </p>
     </div>
@@ -582,4 +582,4 @@ Saya gemar menciptakan tampilan website yang responsive dan estetik, sekaligus m
 </body>
 </html>
 ```
-![gambar](https://github.com/andreanbadeh/Lab4Web/blob/258acbfdbd5ffa748491824ecb8569f6ce8fe5da/image/Screenshot%20from%202025-10-15%2019-57-30.png)
+![gambar](https://github.com/Abcdeflahhh/Lab4WEBPW/blob/b04bcd4acf3c0bd73657093223eb505f4c7b1995/image/2025-10-16%2017_53_24-Layout%20Sederhana%20-%20Tentang%20Saya%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge.png50.png)
